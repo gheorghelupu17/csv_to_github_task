@@ -1,0 +1,4 @@
+Title,Body,Labels,Assignees,Status,Priority,Target date
+Implement login,Add OAuth2 support,"backend,auth","gheorghelupu17",In Progress,High,2025-09-10
+Polish UI,Improve spacing and contrast,frontend,"gheorghelupu17",Todo,Medium,2025-09-15
+
